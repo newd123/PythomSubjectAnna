@@ -1,6 +1,6 @@
 class Student:
 
-    def __int__(self, name, age, numberPhone):
+    def __init__(self, name, age, numberPhone):
         self.name = name
         self.age = age
         self.numberPhone = numberPhone
